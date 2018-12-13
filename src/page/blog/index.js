@@ -3,6 +3,7 @@ class Blog extends Component {
   render() {
     return (
       <div>
+        Blog
       </div>
     );
   }
